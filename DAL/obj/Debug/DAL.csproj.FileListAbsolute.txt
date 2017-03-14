@@ -1,0 +1,5 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\DAL\bin\Debug\DAL.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\DAL\obj\Debug\DAL.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\DAL\obj\Debug\DAL.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

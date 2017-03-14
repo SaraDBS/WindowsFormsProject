@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAStudentManagementSystem", "CAStudentManagementSystem\CAStudentManagementSystem.csproj", "{BF2064E7-ECED-4440-A8D1-E9C459CF01E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIZ", "BIZ\BIZ.csproj", "{1BD9005E-FF36-49C6-BDB3-AB87AF2AA2DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{57646DDF-1CF6-4F38-B0A4-BFE6974A31BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2064E7-ECED-4440-A8D1-E9C459CF01E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2064E7-ECED-4440-A8D1-E9C459CF01E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2064E7-ECED-4440-A8D1-E9C459CF01E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2064E7-ECED-4440-A8D1-E9C459CF01E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD9005E-FF36-49C6-BDB3-AB87AF2AA2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD9005E-FF36-49C6-BDB3-AB87AF2AA2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD9005E-FF36-49C6-BDB3-AB87AF2AA2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD9005E-FF36-49C6-BDB3-AB87AF2AA2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57646DDF-1CF6-4F38-B0A4-BFE6974A31BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57646DDF-1CF6-4F38-B0A4-BFE6974A31BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57646DDF-1CF6-4F38-B0A4-BFE6974A31BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57646DDF-1CF6-4F38-B0A4-BFE6974A31BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

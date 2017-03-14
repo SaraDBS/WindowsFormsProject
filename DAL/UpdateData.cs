@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.SqlClient;
+
+namespace DAL
+{
+    public class UpdateData : DAO
+    {
+        public void UpdateStudent(string firstName, string surname, string email, string phone, string address1, string address2, string city, string county, string courseLevel, string course,int studentNumber)
+        {
+            SqlCommand cmd = new SqlCommand("UPDATE Student SET FirstName=@firstName, Surname=@surname, Email=@email, Phone=@phone, AddressLine1=@address1, AddressLine2=@address2, City=@city, County=@county, Level=@courselevel, Course=@course WHERE StudentNumber=@studentNumber", OpenCon());
+            cmd.Parameters.AddWithValue("@firstName", firstName);
+            cmd.Parameters.AddWithValue("@surname", surname);
+            cmd.Parameters.AddWithValue("@email", email);
+            cmd.Parameters.AddWithValue("@phone", phone);
+            cmd.Parameters.AddWithValue("@address1", address1);
+            cmd.Parameters.AddWithValue("@address2", address2);
+            cmd.Parameters.AddWithValue("@city", city);
+            cmd.Parameters.AddWithValue("@county", county);
+            cmd.Parameters.AddWithValue("@courselevel", courseLevel);
+            cmd.Parameters.AddWithValue("@course", course);
+            cmd.Parameters.AddWithValue("@studentNumber", studentNumber);
+            
+           
+            cmd.ExecuteNonQuery();
+            CloseCon();
+        }
+    }
+}

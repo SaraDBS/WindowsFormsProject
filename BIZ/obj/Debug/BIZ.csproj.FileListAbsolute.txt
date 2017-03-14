@@ -1,0 +1,7 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\BIZ\bin\Debug\BIZ.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\BIZ\bin\Debug\BIZ.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\BIZ\bin\Debug\DAL.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\BIZ\bin\Debug\DAL.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\BIZ\obj\Debug\BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\BIZ\obj\Debug\BIZ.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CAStudentManagementSystem\BIZ\obj\Debug\BIZ.pdb
